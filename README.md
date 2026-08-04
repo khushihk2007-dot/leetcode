@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/khushihk2007-dot/leetcode/tree/master/0001-two-sum) |
+| [0136-single-number](https://github.com/khushihk2007-dot/leetcode/tree/master/0136-single-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -38,4 +39,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/khushihk2007-dot/leetcode/tree/master/0005-longest-palindromic-substring) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/khushihk2007-dot/leetcode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
