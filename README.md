@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/khushihk2007-dot/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/khushihk2007-dot/leetcode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/khushihk2007-dot/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/khushihk2007-dot/leetcode/tree/master/0020-valid-parentheses) |
 ## Backtracking
 |  |
 | ------- |
@@ -60,4 +61,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/khushihk2007-dot/leetcode/tree/master/0190-reverse-bits) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/khushihk2007-dot/leetcode/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/khushihk2007-dot/leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
