@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/khushihk2007-dot/leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/khushihk2007-dot/leetcode/tree/master/0013-roman-to-integer) |
+| [0070-climbing-stairs](https://github.com/khushihk2007-dot/leetcode/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/khushihk2007-dot/leetcode/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/khushihk2007-dot/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0070-climbing-stairs](https://github.com/khushihk2007-dot/leetcode/tree/master/0070-climbing-stairs) |
 ## Manacher
 |  |
 | ------- |
@@ -88,4 +90,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/khushihk2007-dot/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/khushihk2007-dot/leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
