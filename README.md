@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/khushihk2007-dot/leetcode/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/khushihk2007-dot/leetcode/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/khushihk2007-dot/leetcode/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/khushihk2007-dot/leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/khushihk2007-dot/leetcode/tree/master/0268-missing-number) |
 ## Hash Table
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/khushihk2007-dot/leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/khushihk2007-dot/leetcode/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/khushihk2007-dot/leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/khushihk2007-dot/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/khushihk2007-dot/leetcode/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/khushihk2007-dot/leetcode/tree/master/0268-missing-number) |
