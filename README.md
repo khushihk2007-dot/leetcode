@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/khushihk2007-dot/leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/khushihk2007-dot/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/khushihk2007-dot/leetcode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/khushihk2007-dot/leetcode/tree/master/0067-add-binary) |
 ## Backtracking
 |  |
 | ------- |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/khushihk2007-dot/leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/khushihk2007-dot/leetcode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/khushihk2007-dot/leetcode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/khushihk2007-dot/leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/khushihk2007-dot/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/khushihk2007-dot/leetcode/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/khushihk2007-dot/leetcode/tree/master/0268-missing-number) |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/khushihk2007-dot/leetcode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/khushihk2007-dot/leetcode/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/khushihk2007-dot/leetcode/tree/master/0190-reverse-bits) |
 | [0268-missing-number](https://github.com/khushihk2007-dot/leetcode/tree/master/0268-missing-number) |
@@ -104,4 +107,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/khushihk2007-dot/leetcode/tree/master/0069-sqrtx) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/khushihk2007-dot/leetcode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
