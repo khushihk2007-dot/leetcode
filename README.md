@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/khushihk2007-dot/leetcode/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/khushihk2007-dot/leetcode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/khushihk2007-dot/leetcode/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/khushihk2007-dot/leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/khushihk2007-dot/leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/khushihk2007-dot/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0136-single-number](https://github.com/khushihk2007-dot/leetcode/tree/master/0136-single-number) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/khushihk2007-dot/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/khushihk2007-dot/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0088-merge-sorted-array](https://github.com/khushihk2007-dot/leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/khushihk2007-dot/leetcode/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/khushihk2007-dot/leetcode/tree/master/0202-happy-number) |
 ## Dynamic Programming
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/khushihk2007-dot/leetcode/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/khushihk2007-dot/leetcode/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
