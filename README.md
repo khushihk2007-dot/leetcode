@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/khushihk2007-dot/leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/khushihk2007-dot/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0136-single-number](https://github.com/khushihk2007-dot/leetcode/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/khushihk2007-dot/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/khushihk2007-dot/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/khushihk2007-dot/leetcode/tree/master/0268-missing-number) |
 ## Hash Table
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/khushihk2007-dot/leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/khushihk2007-dot/leetcode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/khushihk2007-dot/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0169-majority-element](https://github.com/khushihk2007-dot/leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/khushihk2007-dot/leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/khushihk2007-dot/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/khushihk2007-dot/leetcode/tree/master/0242-valid-anagram) |
@@ -91,12 +93,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/khushihk2007-dot/leetcode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/khushihk2007-dot/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/khushihk2007-dot/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/khushihk2007-dot/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/khushihk2007-dot/leetcode/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/khushihk2007-dot/leetcode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/khushihk2007-dot/leetcode/tree/master/0190-reverse-bits) |
 ## Stack
 |  |
@@ -138,4 +142,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/khushihk2007-dot/leetcode/tree/master/0202-happy-number) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/khushihk2007-dot/leetcode/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/khushihk2007-dot/leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
