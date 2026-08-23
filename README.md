@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/khushihk2007-dot/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/khushihk2007-dot/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/khushihk2007-dot/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/khushihk2007-dot/leetcode/tree/master/0389-find-the-difference) |
 ## String
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/khushihk2007-dot/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/khushihk2007-dot/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/khushihk2007-dot/leetcode/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/khushihk2007-dot/leetcode/tree/master/0389-find-the-difference) |
 ## Backtracking
 |  |
 | ------- |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/khushihk2007-dot/leetcode/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/khushihk2007-dot/leetcode/tree/master/0190-reverse-bits) |
 | [0268-missing-number](https://github.com/khushihk2007-dot/leetcode/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/khushihk2007-dot/leetcode/tree/master/0389-find-the-difference) |
 ## Binary Search
 |  |
 | ------- |
@@ -107,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/khushihk2007-dot/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/khushihk2007-dot/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/khushihk2007-dot/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/khushihk2007-dot/leetcode/tree/master/0389-find-the-difference) |
 ## Divide and Conquer
 |  |
 | ------- |
