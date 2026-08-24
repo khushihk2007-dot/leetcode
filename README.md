@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/khushihk2007-dot/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/khushihk2007-dot/leetcode/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/khushihk2007-dot/leetcode/tree/master/0455-assign-cookies) |
+| [0506-relative-ranks](https://github.com/khushihk2007-dot/leetcode/tree/master/0506-relative-ranks) |
 ## Hash Table
 |  |
 | ------- |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/khushihk2007-dot/leetcode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/khushihk2007-dot/leetcode/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/khushihk2007-dot/leetcode/tree/master/0455-assign-cookies) |
+| [0506-relative-ranks](https://github.com/khushihk2007-dot/leetcode/tree/master/0506-relative-ranks) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -177,4 +179,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/khushihk2007-dot/leetcode/tree/master/0455-assign-cookies) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0506-relative-ranks](https://github.com/khushihk2007-dot/leetcode/tree/master/0506-relative-ranks) |
 <!---LeetCode Topics End-->
