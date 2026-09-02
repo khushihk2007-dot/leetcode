@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/khushihk2007-dot/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0506-relative-ranks](https://github.com/khushihk2007-dot/leetcode/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/khushihk2007-dot/leetcode/tree/master/0561-array-partition) |
+| [0566-reshape-the-matrix](https://github.com/khushihk2007-dot/leetcode/tree/master/0566-reshape-the-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/khushihk2007-dot/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/khushihk2007-dot/leetcode/tree/master/0645-set-mismatch) |
 | [0905-sort-array-by-parity](https://github.com/khushihk2007-dot/leetcode/tree/master/0905-sort-array-by-parity) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/khushihk2007-dot/leetcode/tree/master/0067-add-binary) |
+| [0566-reshape-the-matrix](https://github.com/khushihk2007-dot/leetcode/tree/master/0566-reshape-the-matrix) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -241,4 +243,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/khushihk2007-dot/leetcode/tree/master/0561-array-partition) |
+## Matrix
+|  |
+| ------- |
+| [0566-reshape-the-matrix](https://github.com/khushihk2007-dot/leetcode/tree/master/0566-reshape-the-matrix) |
 <!---LeetCode Topics End-->
