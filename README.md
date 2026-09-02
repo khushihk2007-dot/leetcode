@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/khushihk2007-dot/leetcode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/khushihk2007-dot/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0506-relative-ranks](https://github.com/khushihk2007-dot/leetcode/tree/master/0506-relative-ranks) |
+| [0561-array-partition](https://github.com/khushihk2007-dot/leetcode/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/khushihk2007-dot/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/khushihk2007-dot/leetcode/tree/master/0645-set-mismatch) |
 | [0905-sort-array-by-parity](https://github.com/khushihk2007-dot/leetcode/tree/master/0905-sort-array-by-parity) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/khushihk2007-dot/leetcode/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/khushihk2007-dot/leetcode/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/khushihk2007-dot/leetcode/tree/master/0506-relative-ranks) |
+| [0561-array-partition](https://github.com/khushihk2007-dot/leetcode/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/khushihk2007-dot/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/khushihk2007-dot/leetcode/tree/master/0645-set-mismatch) |
 | [0905-sort-array-by-parity](https://github.com/khushihk2007-dot/leetcode/tree/master/0905-sort-array-by-parity) |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/khushihk2007-dot/leetcode/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/khushihk2007-dot/leetcode/tree/master/0561-array-partition) |
 ## Quicksort
 |  |
 | ------- |
@@ -234,4 +237,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/khushihk2007-dot/leetcode/tree/master/0219-contains-duplicate-ii) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/khushihk2007-dot/leetcode/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
