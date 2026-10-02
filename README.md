@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/khushihk2007-dot/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/khushihk2007-dot/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/khushihk2007-dot/leetcode/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/khushihk2007-dot/leetcode/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/khushihk2007-dot/leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/khushihk2007-dot/leetcode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/khushihk2007-dot/leetcode/tree/master/0367-valid-perfect-square) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/khushihk2007-dot/leetcode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/khushihk2007-dot/leetcode/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/khushihk2007-dot/leetcode/tree/master/0190-reverse-bits) |
+| [0231-power-of-two](https://github.com/khushihk2007-dot/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/khushihk2007-dot/leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/khushihk2007-dot/leetcode/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/khushihk2007-dot/leetcode/tree/master/0645-set-mismatch) |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/khushihk2007-dot/leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0231-power-of-two](https://github.com/khushihk2007-dot/leetcode/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/khushihk2007-dot/leetcode/tree/master/0509-fibonacci-number) |
 ## Sliding Window
 |  |
