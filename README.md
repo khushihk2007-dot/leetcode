@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0459-repeated-substring-pattern](https://github.com/khushihk2007-dot/leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0520-detect-capital](https://github.com/khushihk2007-dot/leetcode/tree/master/0520-detect-capital) |
 | [0709-to-lower-case](https://github.com/khushihk2007-dot/leetcode/tree/master/0709-to-lower-case) |
+| [0796-rotate-string](https://github.com/khushihk2007-dot/leetcode/tree/master/0796-rotate-string) |
 ## Backtracking
 |  |
 | ------- |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/khushihk2007-dot/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/khushihk2007-dot/leetcode/tree/master/0459-repeated-substring-pattern) |
+| [0796-rotate-string](https://github.com/khushihk2007-dot/leetcode/tree/master/0796-rotate-string) |
 ## Z Algorithm
 |  |
 | ------- |
