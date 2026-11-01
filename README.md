@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/khushihk2007-dot/leetcode/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/khushihk2007-dot/leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/khushihk2007-dot/leetcode/tree/master/0415-add-strings) |
+| [0434-number-of-segments-in-a-string](https://github.com/khushihk2007-dot/leetcode/tree/master/0434-number-of-segments-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/khushihk2007-dot/leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0520-detect-capital](https://github.com/khushihk2007-dot/leetcode/tree/master/0520-detect-capital) |
 | [0709-to-lower-case](https://github.com/khushihk2007-dot/leetcode/tree/master/0709-to-lower-case) |
