@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/khushihk2007-dot/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/khushihk2007-dot/leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/khushihk2007-dot/leetcode/tree/master/0392-is-subsequence) |
+| [0412-fizz-buzz](https://github.com/khushihk2007-dot/leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/khushihk2007-dot/leetcode/tree/master/0415-add-strings) |
 | [0459-repeated-substring-pattern](https://github.com/khushihk2007-dot/leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0520-detect-capital](https://github.com/khushihk2007-dot/leetcode/tree/master/0520-detect-capital) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/khushihk2007-dot/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/khushihk2007-dot/leetcode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/khushihk2007-dot/leetcode/tree/master/0367-valid-perfect-square) |
+| [0412-fizz-buzz](https://github.com/khushihk2007-dot/leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/khushihk2007-dot/leetcode/tree/master/0415-add-strings) |
 | [0507-perfect-number](https://github.com/khushihk2007-dot/leetcode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/khushihk2007-dot/leetcode/tree/master/0509-fibonacci-number) |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/khushihk2007-dot/leetcode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/khushihk2007-dot/leetcode/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/khushihk2007-dot/leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/khushihk2007-dot/leetcode/tree/master/0415-add-strings) |
 | [0566-reshape-the-matrix](https://github.com/khushihk2007-dot/leetcode/tree/master/0566-reshape-the-matrix) |
 ## Floyd's Cycle Finding Algorithm
