@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/khushihk2007-dot/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/khushihk2007-dot/leetcode/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/khushihk2007-dot/leetcode/tree/master/0704-binary-search) |
+| [0746-min-cost-climbing-stairs](https://github.com/khushihk2007-dot/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0905-sort-array-by-parity](https://github.com/khushihk2007-dot/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/khushihk2007-dot/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/khushihk2007-dot/leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/khushihk2007-dot/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0392-is-subsequence](https://github.com/khushihk2007-dot/leetcode/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/khushihk2007-dot/leetcode/tree/master/0509-fibonacci-number) |
+| [0746-min-cost-climbing-stairs](https://github.com/khushihk2007-dot/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 ## Manacher
 |  |
 | ------- |
